@@ -1,2 +1,40 @@
 # Git-Example
-Template for practicing and teaching git commands
+## Instructions
+- Fork this repo
+- Clone your forked repo to your local machine
+```bash
+$ git clone "your repo link here without quotes"
+```
+- Navigate to the new directory that was created from the clone
+```bash
+$ cd git-mini-lesson
+```
+- Open that directory with VSCode
+```bash
+$ code .
+```
+- Add your name to the "People who've made a PR" section in the README.md
+- Add, commit, and push your changes
+```bash
+$ git add .
+$ git commit -m "add my name to the list in README.md"
+$ git push
+```
+## Extra
+### Creating a New Branch and Pull Request
+- Make a new branch:
+```bash
+$ git branch my-first-pull-request
+$ git checkout my-first-pull-request
+$ git push -u origin my-first-pull-request
+```
+- Navigate back to your GitHub repo and open a pull request
+
+## People who've made a PR
+
+
+
+
+## Additional Resources
+- [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
