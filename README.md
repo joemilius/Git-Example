@@ -31,8 +31,6 @@ $ git push -u origin my-first-pull-request
 - Navigate back to your GitHub repo and open a pull request
 
 ## People who've made a PR
-- I have made a change! Joe Milius
-- I created a new branch!
 
 
 
