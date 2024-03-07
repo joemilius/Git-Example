@@ -32,6 +32,7 @@ $ git push -u origin my-first-pull-request
 
 ## People who've made a PR
 - This change was made on the main branch Joe Milius
+- This change was made on the editREADME branch
 
 
 ## Additional Resources
