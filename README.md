@@ -31,7 +31,7 @@ $ git push -u origin my-first-pull-request
 - Navigate back to your GitHub repo and open a pull request
 
 ## People who've made a PR
-
+- This change was made on the main branch Joe Milius
 
 
 ## Additional Resources
